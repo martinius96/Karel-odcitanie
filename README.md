@@ -1,6 +1,9 @@
 # Karel-odcitanie
 Odčítanie dvoch čísel pod sebou s využitím Fibonacciho postupnosti
 
+# Preklad programu zo súboru targetfile.c
+* make targetfile
+
 # Začiatočný stav
 ![alt text](https://i.nahraj.to/f/1SOj.PNG)
 
